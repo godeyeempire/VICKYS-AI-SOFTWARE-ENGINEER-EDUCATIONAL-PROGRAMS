@@ -19,5 +19,5 @@ This suite targets critical STEM subjects, aligning autonomous software engineer
 🧪 2. Immersive Science LabVirtual Chemistry Simulator: Safe, gamified lab environments for simulating chemical reactions and balancing equations.Physics Engine Sandbox: Interactive modules demonstrating gravity, velocity, and electricity circuits via live animations.Biological Systems Explorer: 3D interactive models breaking down cellular structures, human anatomy, and ecological cycles.
 💻 3. Foundational ComputingVisual Logic Block Coding: A drag-and-drop playground teaching loops, conditionals, and variables to beginners.Algorithm Visualizers: Step-by-step animations showing how sorting, searching, and data structures work in real time.Cyber Security Quests: Gamified text and puzzle adventures teaching network security, cryptography, and digital literacy.
 
-*#NB: VICKYS IS A GENERAL SYSTEM FOR CODING AND HANLING THE ENTIRE SOFTWARE DEVELOPMENT LIFE CYCLE AUTONOMOUSLY. WITH THE CAPABILITY OF SPAWNING UPTO 40 SUBAGENTS.ITS FIRST OF IT'S KIND IN THE WORLD.* 
-*#PROUDLY MADE IN GHANA*
+*#NB: VICKYS IS A GENERAL SYSTEM FOR CODING AND CAPABLE HANLING THE ENTIRE SOFTWARE DEVELOPMENT LIFE CYCLE AUTONOMOUSLY. WITH THE CAPABILITY OF SPAWNING UPTO 40 SUBAGENTS.ITS FIRST OF IT'S KIND IN THE WORLD.* 
+_#PROUDLY MADE IN GHANA_
