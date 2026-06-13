@@ -21,14 +21,17 @@ Geometric Visualization: Dynamic, draggable vector canvases that visually prove 
 Algebraic Gamification: Equation-balancing puzzles where students manipulate algebraic variables to unlock levels.
 Calculus Graphs: Real-time rendering of functions, derivatives, and integrals using reactive visual plots.
 
+
 🧪 2. Immersive Science 
 LabVirtual Chemistry Simulator: Safe, gamified lab environments for simulating chemical reactions and balancing equations.
 Physics Engine Sandbox: Interactive modules demonstrating gravity, velocity, and electricity circuits via live animations.
 Biological Systems Explorer: 3D interactive models breaking down cellular structures, human anatomy, and ecological cycles.
+
 💻 3. Foundational Computing
 Visual Logic Block Coding: A drag-and-drop playground teaching loops, conditionals, and variables to beginners.
 Algorithm Visualizers: Step-by-step animations showing how sorting, searching, and data structures work in real time.
 Cyber Security Quests: Gamified text and puzzle adventures teaching network security, cryptography, and digital literacy.
 
 *#NB: VICKYS IS A GENERAL SYSTEM FOR CODING AND CAPABLE HANLING THE ENTIRE SOFTWARE DEVELOPMENT LIFE CYCLE AUTONOMOUSLY. WITH THE CAPABILITY OF SPAWNING UPTO 40 SUBAGENTS.ITS FIRST OF IT'S KIND IN THE WORLD.* 
+
 _PROUDLY MADE IN GHANA_
